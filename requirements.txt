@@ -1,0 +1,7 @@
+openai
+discord.py
+python-dotenv
+colorizelib
+pytube
+requests
+forex-python
